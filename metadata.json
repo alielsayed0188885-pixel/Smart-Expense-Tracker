@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "A high-fidelity mobile financial assistant featuring category budgeting, deep expense analytics, and a server-backed Gemini AI financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
